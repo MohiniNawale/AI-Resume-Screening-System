@@ -122,16 +122,16 @@ AI-Resume-Screening-System/
 # 📸 Screenshots
 
 ## Upload Pdf
-![Upload pdf](uploadpdf.png)
+![Upload Pdf](./Screen-short/uploadpdf.png)
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](./Screen-short/dashboard.png)
 
-## Skills Chart
-![Skills](skillbarchat.png)
+## Skills Graph
+![Skills](./Screen-short/skillbarchat.png)
 
-## Skills Chart
-![Skills](finaloutput.png)
+## Final Output
+![finaloutput](./Screen-short/finaloutput.png)
 
 ---
 
