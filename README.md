@@ -64,8 +64,19 @@ Higher similarity = Higher Resume Score ✅
 
 # 🔄 Project Workflow
 
-Resume Upload -> PDF Text Extraction -> Job Description Input -> Text Processing -> TF-IDF Vectorization -> Cosine Similarity -> Resume Match Score -> Skill Extraction -> Accept / Reject Decision -> Dashboard Visualization
+Resume Upload
+      ↓
+PDF Text Extraction
+      ↓
+Job Description Input
+      ↓
+Resume Match Score
+      ↓
+Skill Extraction
+      ↓
+Accept / Reject Result
 ---
+
 
 # 💻 Technologies Used
  ## 🔹 Programming Language
