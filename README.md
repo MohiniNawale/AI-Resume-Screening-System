@@ -64,19 +64,14 @@ Higher similarity = Higher Resume Score ✅
 
 # 🔄 Project Workflow
 
-Resume Upload
-      ↓
-PDF Text Extraction
-      ↓
-Job Description Input
-      ↓
-Resume Match Score
-      ↓
-Skill Extraction
-      ↓
-Accept / Reject Result
----
+1) Resume Upload    
+2) PDF Text Extraction
+3) Job Description Input
+4) Resume Match Score
+5) Skill Extraction
+6) Accept / Reject Result
 
+---
 
 # 💻 Technologies Used
  ## 🔹 Programming Language
