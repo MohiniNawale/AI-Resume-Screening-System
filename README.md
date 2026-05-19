@@ -35,6 +35,7 @@ This project provides an intelligent Resume Screening System using:
 -  Dashboard Visualization
 
 The system:
+
 1️⃣ Uploads Resume PDF  
 2️⃣ Extracts Resume Text  
 3️⃣ Takes Job Description Input  
@@ -63,26 +64,7 @@ Higher similarity = Higher Resume Score ✅
 
 # 🔄 Project Workflow
 
-Resume Upload
-      ↓
-PDF Text Extraction
-      ↓
-Job Description Input
-      ↓
-Text Processing
-      ↓
-TF-IDF Vectorization
-      ↓
-Cosine Similarity
-      ↓
-Resume Match Score
-      ↓
-Skill Extraction
-      ↓
-Accept / Reject Decision
-      ↓
-Dashboard Visualization
-
+Resume Upload -> PDF Text Extraction -> Job Description Input -> Text Processing -> TF-IDF Vectorization -> Cosine Similarity -> Resume Match Score -> Skill Extraction -> Accept / Reject Decision -> Dashboard Visualization
 ---
 
 # 💻 Technologies Used
